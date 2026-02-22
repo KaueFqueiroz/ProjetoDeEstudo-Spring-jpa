@@ -1,4 +1,4 @@
-package com.projeto.ProjetoDeEstudo.resources;
+package com.projeto.ProjetoDeEstudo;
 
 import com.projeto.ProjetoDeEstudo.entities.User;
 import org.springframework.http.ResponseEntity;
